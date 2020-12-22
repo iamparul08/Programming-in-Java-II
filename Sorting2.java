@@ -1,5 +1,7 @@
 /*Sorting elements in decending order*/
 
+//swapping
+
  class Sorting2 {
 	 
 	 public static void main(String args[]) {
